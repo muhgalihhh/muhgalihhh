@@ -1,2 +1,2 @@
 ### I'm Muhamad Galihh 🐺
-<img src="https://github-readme-stats.vercel.app/api?username=muhgalihhh">
+<img alt="stats-muhgalihhh" src="https://github-readme-stats.vercel.app/api?username=muhgalihhh&show_icons=true">
