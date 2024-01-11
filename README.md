@@ -1,8 +1,2 @@
-### Hi there 👋
-
-
-- 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me: muhamadgalih0803@gmail.com
-- 😄 Pronouns: Mizariee
-- ⚡ Fun fact: Nothing fun fact about me haha.
-
+### I'm Muhamad Galihh 🐺
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
