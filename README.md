@@ -1,6 +1,9 @@
 ## Hello!!, I'm Muhamad Galihh 🐺
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhgalihhh&repo=eRaport">
+
+<a href="https://github.com/muhgalihhh/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhgalihhh&repo=eRaport">
+</a>
 <a href="https://github.com/muhgalihhh/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muhgalihhh&theme=dracula" />
 </a>
