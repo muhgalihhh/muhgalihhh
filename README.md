@@ -1,6 +1,5 @@
 ## Hello!!, I'm Muhamad Galihh 🐺
 
-# My GitHub Projects
 
 <div align="center">
   <a href="https://github.com/muhgalihhh/eRaport">
