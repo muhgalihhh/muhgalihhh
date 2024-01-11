@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhgalihhh&repo=eRaport">
 </a>
    <a href="https://github.com/muhgalihhh/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhgalihhh&repo=fc-barcelona.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhgalihhh&repo=fc-barcelona">
 </a>
    <a href="https://github.com/muhgalihhh/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhgalihhh&repo=KalkulatorKesehatan">
