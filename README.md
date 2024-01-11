@@ -1,8 +1,9 @@
-# Hello, Muhamad Galihh 🐺
+## Hello, Muhamad Galihh 🐺
+
 
 <details>
   <summary>GitHub Stats</summary>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhgalihhh&show_icons=true&theme=dracula">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhgalihhh&show_icons=true&theme=dracula">
 </details>
 
 <details>
