@@ -16,9 +16,9 @@
 
 ## Project Descriptions
 
-- [**eRaport**](https://github.com/muhgalihhh/eRaport): Description for the eRaport project.
-- [**fc-barcelona**](https://github.com/muhgalihhh/fc-barcelona): Description for the fc-barcelona project.
-- [**KalkulatorKesehatan**](https://github.com/muhgalihhh/KalkulatorKesehatan): Description for the KalkulatorKesehatan project.
+- [**eRaport**](https://github.com/muhgalihhh/eRaport): Sistem E-Raport untuk merekap nilai siswa
+- [**fc-barcelona**](https://github.com/muhgalihhh/Project-Spiderman): Website Tentang Spiderman untuk tugas Praktikum
+- [**KalkulatorKesehatan**](https://github.com/muhgalihhh/KalkulatorKesehatan): Aplikasi Kalkulator Kesehatan BMI, dan Kalori harian
 
 Feel free to explore and contribute to these projects!
 
