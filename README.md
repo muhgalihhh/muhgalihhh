@@ -23,6 +23,6 @@ Feel free to explore and contribute to these projects!
 
 
 <a href="https://github.com/muhgalihhh/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhgalihhh&layout=compact&theme=dracula" />
 </a>
 
