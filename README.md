@@ -1,4 +1,5 @@
 ## Hello!!, I'm Muhamad Galihh 🐺
+Student of Jenderal Soedirman University
 
 
 <a href="https://github.com/muhgalihhh/">
