@@ -4,8 +4,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhgalihhh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height=200 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhgalihhh&theme=dracula&hide_border=false" height=200 />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhgalihhh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css&langs_count=6" height=200 />
 </div>
 
